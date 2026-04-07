@@ -7,10 +7,10 @@ Experience building REST APIs with C#, integrating React frontends, and working 
 
 ## About Me
 
-I am a developer focused on building web applications using .NET technologies.  
-I have worked on projects involving REST API development, frontend integration with React, and data handling with SQL.
+I am a developer focused on building scalable web applications using .NET technologies.  
+I have experience designing REST APIs, integrating frontend applications with React, and managing relational databases.
 
-My academic background in physics provides strong analytical thinking, logical modeling, and structured problem-solving skills.
+My academic background in physics provides strong analytical thinking, mathematical modeling, and structured problem-solving skills.
 
 ---
 
@@ -20,12 +20,26 @@ C# · .NET · React · SQL Server · Python · MATLAB · Git
 
 ---
 
-## Projects
+## Featured Projects
 
-- E-commerce system with REST API and React frontend  
-- Experimental data analysis dashboards  
-- Clebsch-Gordan coefficient calculator  
-- Superconductor data processing and automation  
+### E-commerce Application
+Full stack application with REST API in .NET and React frontend.  
+Includes product management and shopping cart functionality.  
+ https://github.com/Axahdz/tienda-bolsas
+
+---
+
+### Superconductor Data Analysis Dashboard
+Interactive dashboard for analyzing experimental data using Python.  
+Includes Gaussian/Lorentzian fitting and data visualization.  
+ https://github.com/Axahdz/superconductor-data-analysis-dashboard
+
+---
+
+### Clebsch-Gordan Calculator
+Desktop application developed in C# for quantum mechanics calculations.  
+Implements mathematical logic and input validation.  
+ https://github.com/Axahdz/ClebshGordan
 
 ---
 
